@@ -2,10 +2,10 @@
   docs:
   - ""
 
-- title: Background Material
+- title: Pre-Workshop
   docs:
-  - /docs/background_material/alice-intro
-  - /docs/background_material/cs-fundamentals
+  - /docs/pre_workshop/alice-intro
+  - /docs/pre_workshop/cs-fundamentals
 
 - title: Lesson Plans
   docs:
