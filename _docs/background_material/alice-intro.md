@@ -6,5 +6,6 @@ tags:
 - alice
 ---
 
-## Horses Lesson Plan
+## Alice
 
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/day1-statement1.png)
