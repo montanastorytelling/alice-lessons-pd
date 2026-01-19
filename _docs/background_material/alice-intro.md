@@ -6,11 +6,76 @@ tags:
 - alice
 ---
 
-## Alice
+## Horses Lesson Plan
 
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/alice-intro.png)
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/starter_world.png)
 
-Alice is a 3D programming interface meant to create interactive stories and games by arranging 3D scenes and preforming actions on a scene. 
-This educational programming software is meant to teach students, generally k-12, on how to effectively program and visualize code. The image pictured
- above shows the first tutorial which involves the character generally associated with the Alice program. In our Alice lessons, we will not be using the 
-above skater. However, it may be worth going through the tutorial on your own before hosting a class on Alice, in order to get comfortable with the program.
+### A First Glimpse
+
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/day1-statement1.png)
+
+### Explore Alice
+
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/annotated_world-1.png)
+
+### Discussion I
+
+1. What are your first impressions of Alice?
+2. What did you do in Alice?
+3. Could you see using this tool in your classroom?
+4. Any initial questions?
+
+---
+
+## Overview
+
+1. Beaded bags of the Columbia Plateau.
+2. Computer Science - JIT
+3. EU 6: History from the American Indian Perspective
+4. Code in Alice!
+5. Sharing worlds
+6. Presentation of the two-day lesson
+7. Additional content standards
+8. Additional units & assessment
+9. Survey and conclusion
+
+---
+
+## Beaded Bag Objectives
+
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/venn-bb-1.png)
+
+### Reading
+
+[Full Brochure](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-full-brochure-01.png)
+
+[Short Reading](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-short.png)
+
+---
+
+## Discussion II
+
+1. Summary
+2. What did you learn?
+3. What was most interesting?
+4. What was most surprising?
+
+19th Century | 20th Century
+:-------------------------:|:-------------------------:
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+ |
+
+---
+
+## Beaded Bag
+
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/beadbag.png)
+
+## Idea Discussion
+
