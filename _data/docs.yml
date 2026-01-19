@@ -7,15 +7,21 @@
   - /docs/pre_workshop/alice-intro
   - /docs/pre_workshop/cs-fundamentals
 
-- title: Lesson Plans
-  docs:
-  - /docs/lesson_plans/01-beaded-bag-lp
-  - /docs/lesson_plans/02-horses-lp
-  - /docs/lesson_plans/03-other-lps
-
-- title: LP Overview
+- title: Lesson Plan Overview
   docs:
   - /docs/lp-overview
+
+- title: Module 1 - Beaded Bag
+  docs:
+  - /docs/lesson_plans/01-beaded-bag-lp
+
+- title: Module 2 - Horses
+  docs:
+  - /docs/lesson_plans/02-horses-lp
+
+- title: Module 3 - Others
+  docs:
+  - /docs/lesson_plans/03-other-lps
 
 - title: Assessment
   docs:
