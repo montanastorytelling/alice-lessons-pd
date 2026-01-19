@@ -8,4 +8,4 @@ tags:
 
 ## Alice
 
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/alice-intro)
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/alice-intro.png)
