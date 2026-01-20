@@ -1,0 +1,1 @@
+{% capture markdown %}{% endcapture %}{{ markdown | markdownify }}

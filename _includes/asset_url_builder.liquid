@@ -1,0 +1,4 @@
+{%- assign assetname = include.assetname -%}
+{%- assign asseti = site.data.assets[assetname] -%}
+{%- assign url = asseti.permalink | relative_url -%}
+{{url}}
