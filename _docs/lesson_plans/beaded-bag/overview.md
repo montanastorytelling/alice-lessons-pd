@@ -1,4 +1,3 @@
 ---
 title: Overview
-permalink: /overview/
 ---
