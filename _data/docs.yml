@@ -23,8 +23,13 @@
 
 - title: Module 2 - Horses
   docs:
-  - /docs/lesson_plans/02-horses-lp
-
+  - /docs/lesson_plans/horses/02-horses-lp
+  - /docs/lesson_plans/horses/overview
+  - /docs/lesson_plans/horses/introduction
+  - /docs/lesson_plans/horses/group-lesson-planning
+  - /docs/lesson_plans/horses/model-lesson-1
+  - /docs/lesson_plans/horses/model-lesson-2
+  - /docs/lesson_plans/horses/homework
 - title: Module 3 - Others
   docs:
   - /docs/lesson_plans/03-other-lps
