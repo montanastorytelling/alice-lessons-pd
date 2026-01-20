@@ -1,5 +1,7 @@
 ---
 title: Overview
-permalink: /beaded-bags/
+post-image:
+description:
+tags:
+- bag
 ---
-
