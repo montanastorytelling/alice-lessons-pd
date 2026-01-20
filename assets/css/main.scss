@@ -21,6 +21,27 @@
 ;
 
 
+.navbar-text{
+  line-height:20px;
+}
+
+.jumbotron{
+  margin-top: 3em;
+  border: solid 2px #555;
+}
+  .jumbotron *{
+    paint-order: stroke fill;
+    background-color: #2222229a;
+    -webkit-background-clip: text;
+  }
+  .jumbotron h1{
+    -webkit-text-stroke: 7px transparent;
+  }
+  .jumbotron p{
+    -webkit-text-stroke: 3px transparent;
+  }
+
+
 // Lesson formatting
 .important {
   color: Red;
