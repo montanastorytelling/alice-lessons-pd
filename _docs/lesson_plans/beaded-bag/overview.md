@@ -7,7 +7,7 @@ tags:
 ---
 ## Overview
 
-|Time | Activity|
+|<div style="width:290px">Time</div> | Activity|
 |:------|----------------|
 |1 hour|Set-up|
 |10 min|Reading/Worksheet|
