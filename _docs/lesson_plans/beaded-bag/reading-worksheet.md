@@ -6,6 +6,8 @@ tags:
 - bag
 ---
 
+**Time: 10 Min**
+
 In order to understand the following lessons, it is important to complete the following tasks before beginning:
 
 - Read the story of the Fred Mitchell Collection from the handout.
