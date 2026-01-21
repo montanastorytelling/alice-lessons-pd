@@ -1,5 +1,5 @@
 ---
-title: Group Lesson Planning
+title: Set Up
 post-image:
 description:
 tags:
