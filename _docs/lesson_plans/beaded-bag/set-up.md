@@ -27,5 +27,3 @@ navigate to where you saved the starter world.
 	1. For assistance, a worksheet describing the process of opening a 
 saved Alice world is available on the Storytelling lessons webpage[ Storytelling lessons webpage](https://montanastorytelling.github.io/alice-lessons/f/open-saved-world.pdf).
 4. Review technical ideas and terms used in the lesson, and defined in Appendix C of the [Beaded-Bag Lesson Plan](https://montanastorytelling.github.io/alice-lessons/f/beaded-bags/lesson-plan.pdf)
-
-After completing the tasks listed above, you can continue to the Reading/Worksheet page to continue.
