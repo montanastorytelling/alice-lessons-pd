@@ -1,5 +1,5 @@
 ---
-title: Model Lesson 1
+title:Lesson 1
 post-image:
 description:
 tags:
