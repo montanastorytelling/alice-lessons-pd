@@ -11,10 +11,10 @@ tags:
 
 **Time: 20 Min**
 
-> Welcome to our take-home professional development course on Alice, 
-> where we expect you to interact with 3D modeling on an individual level 
-> and come out with a wider understanding of the field. In this course we expect 
-> students to leave with the ability to:
+Welcome to our take-home professional development course on Alice, 
+where we expect you to interact with 3D modeling on an individual level 
+and come out with a wider understanding of the field. In this course we expect 
+students to leave with the ability to:
 
 - Use algorithms to address complex problems
 - Develop programs that combine control structures, including nested loops and compound conditionals
