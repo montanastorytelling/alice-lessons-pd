@@ -18,7 +18,7 @@ First, summarize the reading. Then answer the following questions:
 - What modern beadwork have you seen? What does it look like? Who made it? Who uses it or where is it
 displayed? Was it made for art or for function?
 
-The following questions should also be considered on the beaded bagon page 8 of the reading:
+The following questions should also be considered on the beaded bag image that is either displayed or printed:
 
 - When was the bag most likely created?
 - What can you tell me about the landscape?
