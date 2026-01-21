@@ -39,4 +39,21 @@ Why is the man on a horse? Is he leaving or arriving?
 
 ## Work in Alice
 
-Open the starter world up in Alice and play the current animation.
+Open the starter world up in Alice and do the following:
+
+- Go over the different parts of the Alice environment that are labeled in Figure 3; in particular,
+Objects, Object Methods, and World Preview.
+- Push play and watch the short animation.
+
+Ask yourself the following questions:
+- What is happening in the scene?
+- Did this change your perspective on the characters?
+- Are there any hidden details in the scene that you may not initially pick up on?
+	- For this question, it may be healpful to replay the animation.
+ 
+Next, use your mouse to select the man in the alice world. On the left hand side of the screen, some options should appear. 
+One of these options is named man.say. You may add this method to your world.my_first_method in order to give the man some dialouge.
+Push play to see your changes in real time. Take 5-10 minutes to animate a story of your choosing. If you are working on this with a group, it may
+be acceptable to pair up in order to create a story together.
+
+Work on [Worksheet 2](https://montanastorytelling.github.io/alice-lessons/f/beaded-bags/worksheet_2.pdf) individually.
