@@ -19,7 +19,7 @@ students to leave with the ability to:
 - Exercice various other abilities found in the [ Montana Content Standards](https://mt-satchel.commongoodlt.com/39f60344-22e2-11eb-85a6-0242c0a85003/).
 
 For Set up before starting our take-home professional development course, the following steps should be completed:
-1. Set-up some system(Projector, computer screen, ect) to display the artwork or print out the artwork.
+1. Set-up some system(Projector, computer screen, ect) to display the [artwork](https://montanastorytelling.github.io/alice-lessons/f/beaded-bags/beadbag-image.png) attached here or print out the artwork.
 2. Download Alice 2 onto your computer and open the program.
 3. Download the starter world Beaded-Bag-Starter.a2w available from the Storytelling lessons webpage and
 pre-load it onto each computer. After opening Alice, select the tab "Open a World" from the welcome screen and 
