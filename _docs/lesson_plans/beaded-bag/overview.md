@@ -5,7 +5,6 @@ description:
 tags:
 - bag
 ---
-## Overview
 
 |Time | Activity|
 |:------|----------------|

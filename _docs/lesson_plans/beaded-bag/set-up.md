@@ -6,9 +6,6 @@ tags:
 - bag
 ---
 
-## Set Up
-
-
 **Time: 20 Min**
 
 Welcome to our take-home professional development course on Alice, 
