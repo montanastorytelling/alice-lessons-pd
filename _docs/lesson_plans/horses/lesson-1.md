@@ -7,6 +7,7 @@ tags:
 ---
 **Time: 50 Min**
 
+## Reading and Worksheets
 To begin Lesson 1, please work through [Worksheet 
 1](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_1).
 
