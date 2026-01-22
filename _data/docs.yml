@@ -2,30 +2,30 @@
   docs:
   - ""
 
-- title: Module 0: Getting Started
+- title: "Module 0: Getting Started"
   docs:
   - /docs/pre_workshop/alice-intro
   - /docs/pre_workshop/cs-fundamentals
 
-- title: Lesson Plan Overview
+- title: "Lesson Plan Overview"
   docs:
   - /docs/lp-overview
 
-- title: Module 1: Beaded Bag
+- title: "Module 1: Beaded Bag"
   docs:
   - /docs/lesson_plans/beaded-bag/set-up
   - /docs/lesson_plans/beaded-bag/reading-worksheet
   - /docs/lesson_plans/beaded-bag/lesson-1
   - /docs/lesson_plans/beaded-bag/lesson-2
 
-- title: Module 2: Horses
+- title: "Module 2: Horses"
   docs:
   - /docs/lesson_plans/horses/02-horses-lp
   - /docs/lesson_plans/horses/set-up
   - /docs/lesson_plans/horses/lesson-1
   - /docs/lesson_plans/horses/lesson-2
   - /docs/lesson_plans/horses/lesson-3
-- title: Module 3: Others
+- title: "Module 3: Others"
   docs:
   - /docs/lesson_plans/03-other-lps
 
