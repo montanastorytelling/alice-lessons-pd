@@ -5,17 +5,21 @@ description:
 tags:
 - bag
 ---
-** 50 min **
+**Time: 50 Min**
 
-To begin Lesson 1, please work through [Worksheet 1]
-(https://montanastorytelling.github.io/alice-lessons/horses/worksheet_1).
+To begin Lesson 1, please work through [Worksheet 
+1](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_1).
 
-After this, read one of the following two supplemental readings,[How the Indians Got the Horse]
-(https://montanastorytelling.github.io/alice-lessons/horses/how-the-indians-got-the-horse) or 
-[American Indian Horse History]
-(https://montanastorytelling.github.io/alice-lessons/horses/american-indian-horse-history)
-, and work through [Worksheet 2]
-(https://montanastorytelling.github.io/alice-lessons/horses/worksheet_2). If you are in a group of some kind, this would 
+After this, read one of the following two supplemental readings,[How the Indians 
+Got the 
+Horse](https://montanastorytelling.github.io/alice-lessons/horses/how-the-
+indians-got-the-horse) or 
+[American Indian Horse 
+History](https://montanastorytelling.github.io/alice-lessons/horses/american-
+indian-horse-history)
+, and work through [Worksheet 
+2](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_2). If 
+you are in a group of some kind, this would 
 be an appropriate time to share your responses on Worksheet 2 
 with others and discuss.
 
