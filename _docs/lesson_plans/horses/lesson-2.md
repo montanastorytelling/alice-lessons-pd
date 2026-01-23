@@ -33,5 +33,7 @@ After this, play the animation to see the difference. Does this line up fully wi
 
 ## Edit Alice to the Solution
 
-Direct your attention to the conditional statement world.horses_turn_away_from_shortstop. What happens when you change it from false to true? 
-Does this fix the animation?
+Direct your attention to the conditional statement 
+world.horses_turn_away_from_shortstop. 
+- What happens when you change it from false to true? 
+- Does this fix the animation?
