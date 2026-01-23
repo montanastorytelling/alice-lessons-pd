@@ -5,6 +5,9 @@ description:
 tags:
 - bag
 ---
+**Time: 50 Min**
+
+## Internet Research
 
 Take about 15 minutes to research the Wild Horse and Burro Program 
 using

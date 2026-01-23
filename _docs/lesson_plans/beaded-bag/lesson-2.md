@@ -8,6 +8,7 @@ tags:
 
 **Time: 50 min**
 
+## Animating and Discussion
 On worksheet 2, you came up with a plan for how your animation would work. 
 Spend some time attempting to animate that. If you are in a group you may 
 need to discuss which parts from each persons steps will be added. See if 

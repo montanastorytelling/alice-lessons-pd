@@ -8,6 +8,8 @@ tags:
 
 **Time: 50 Min**
 
+## Summarize Reading
+
 First, summarize the reading. Then answer the following questions:
 
 - How long do you think it takes to make a piece of beadwork? How long do you think it took someone to make a beaded bag?
@@ -18,6 +20,7 @@ First, summarize the reading. Then answer the following questions:
 - What modern beadwork have you seen? What does it look like? Who made it? Who uses it or where is it
 displayed? Was it made for art or for function?
 
+## Inspecting Beaded Bag
 The following questions should also be considered on the beaded bag image that is either displayed or printed:
 
 - When was the bag most likely created?

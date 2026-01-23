@@ -5,6 +5,7 @@ description:
 tags:
 - bag
 ---
+**Time: 50 Min**
 
 ## Inspect Starter World
 
