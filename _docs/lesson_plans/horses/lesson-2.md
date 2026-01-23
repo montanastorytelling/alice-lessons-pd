@@ -21,3 +21,17 @@ button in order to watch the small animation. How is what happens in this
 different from the story we read?
 
 ## Programming Problem and Solution
+
+Which code block affects the items that don't match with our story? Consider the following questions and come up with answers:
+- Which code blocks are affecting the differences?
+- How do we address the code, to make it act in the way we want?
+
+By now, you may have already found it, but if you haven't then take a look at the world.horses_turn_away_from_shortstop if block. 
+What do you notice? How can we make the shortstop jump out at the horses?
+
+After this, play the animation to see the difference. Does this line up fully with our story? What else is missing?
+
+## Edit Alice to the Solution
+
+Direct your attention to the conditional statement world.horses_turn_away_from_shortstop. What happens when you change it from false to true? 
+Does this fix the animation?
