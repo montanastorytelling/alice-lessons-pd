@@ -37,3 +37,8 @@ Direct your attention to the conditional statement
 world.horses_turn_away_from_shortstop. 
 - What happens when you change it from false to true? 
 - Does this fix the animation?
+- When does it make sense for the shortstop to jump out?
+
+Take some time to think through the solution, if you can't figure it out, you 
+can reference the [Lesson 
+Plan](https://montanastorytelling.github.io/alice-lessons/horses/lesson_plan).
