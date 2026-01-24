@@ -44,6 +44,7 @@ students to understand how a computer reads commands and how to
 create commands of their own for a computer to understand.
 ![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/beaded-bag.
 png)
+> The figure above shows the Alice environment for the Beaded Bag Lesson Plan.
 
 ## Horses Lesson Plan
 
