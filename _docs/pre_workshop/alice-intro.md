@@ -54,7 +54,10 @@ students to understand how a computer reads conditional statements and how to
 create conditional statements of their own.
 ![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/starter_world.png)
 > The figure above shows the Alice environment for the Horses Lesson Plan.
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/day1-statement1.png)
+
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/day1-
+statement1.png)
+
 > The figure above shows a conditional statement in our Horses Lesson Plan.
 
 ### Reading
