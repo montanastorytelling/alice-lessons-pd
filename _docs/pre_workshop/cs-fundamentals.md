@@ -6,8 +6,8 @@ tags:
 - cs
 ---
 ## Beaded Bag Computer Science Content
-This will provide any important terms to understand for the Beaded Bag lesson 
-plan.
+This section should provide some general computer science content that may help 
+with the Beaded Bag lesson plan.
 
 ### Algorithm
 
@@ -75,7 +75,8 @@ jump command followed by the run command will make a character first jump up
 and then, second, run.
 
 ## Horses Computer Science Content
-This will provide any important terms to understand for the Horses lesson plan.
+This section should provide some general computer science content that may help 
+with the Horses lesson plan.
 
 ### Boolean 
 
@@ -128,6 +129,9 @@ example, a variable is used when
 the user wants to specify the number of jumps an object should take.
 
 ## General Computer Science Content
+
+This section should provide some general computer science content that may help 
+with any/all the lesson plans.
 ### Event
 
 How does a computer know when to run an algorithm?
