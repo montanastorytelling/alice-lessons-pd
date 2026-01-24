@@ -42,7 +42,7 @@ introduce students to how a computer takes in commands and outputs items or
 animations. By the end of this lesson, we intend 
 students to understand how a computer reads commands and how to 
 create commands of their own for a computer to understand.
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/beadbag.
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/beaded-bag.
 png)
 
 ## Horses Lesson Plan
