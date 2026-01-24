@@ -16,12 +16,6 @@ Similar to changing a tire or following a recipe to bake a cake, these actions
 take a specific step-by-step processes. In Alice, the algorithms we develop help 
 to animate the virtual world.
 
-#### Examples of Algorithms
-
-* Following a recipe
-* Following navigation directions
-* Other examples?
-
 ### Code
 
 Computer code is how computer users enter instructions for the computer to 
@@ -141,9 +135,9 @@ and when they "hear" an event, they run some code.
 
 #### Examples of Events
 
-* When key pressed...
-* When mouse clicked...
-* When screen touch...
+* When a key is pressed...
+* When a mouse is clicked...
+* When a screen is touched...
 
 ### Sequencing
 
