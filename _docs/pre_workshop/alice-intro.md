@@ -5,7 +5,13 @@ description: A light and fast introduction to Alice
 tags:
 - alice
 ---
+## Alice 2.0
 
+Alice is a 3d animating environment in which we intend to learn about various 
+applications of comuter science. Through 2 lesson plans, we intent to teach 
+students about computer science, visual arts, and history from a Native 
+American perspective. Below, we have descriptions of the 2 lesson plans in 
+detail.
 ## Horses Lesson Plan
 
 ![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/starter_world.png)

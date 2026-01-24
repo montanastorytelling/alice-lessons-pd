@@ -7,10 +7,6 @@
   - /docs/pre_workshop/alice-intro
   - /docs/pre_workshop/cs-fundamentals
 
-- title: "Lesson Plan Overview"
-  docs:
-  - /docs/lp-overview
-
 - title: "Module 1: Beaded Bag"
   docs:
   - /docs/lesson_plans/beaded-bag/set-up
@@ -27,10 +23,6 @@
 - title: "Module 3: Others"
   docs:
   - /docs/lesson_plans/03-other-lps
-
-- title: Assessment
-  docs:
-  - /docs/assessment
 
 - title: Licensing
   docs:
