@@ -32,7 +32,7 @@ resembled through drag and drop
 code blocks allowing users to create programs through visually organizing and 
 connecting these code blocks.
 
-#### Method
+### Method
 
 A method is a group of messages/instructions directed at an object to cause it 
 to perform a
@@ -42,7 +42,7 @@ example, when you want an object to walk, run, or jump, these actions require a
 method that tells the object
 which action to take.
 
-#### Object:
+### Object:
 
 An object refers to any entity or element that is represented and manipulated 
 within the virtual
