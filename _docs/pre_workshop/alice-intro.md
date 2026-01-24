@@ -12,17 +12,18 @@ applications of comuter science. Through 2 lesson plans, we intent to teach
 students about computer science, visual arts, and history from a Native 
 American perspective. Below, we have descriptions of the 2 lesson plans in 
 detail.
-## Horses Lesson Plan
-
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/starter_world.png)
-
-### A First Glimpse
-
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/day1-statement1.png)
-
 ### Explore Alice
-
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/annotated_world-1.png)
+Alice has an interactive environment that is easy to use and understand for any 
+student k-12. On the left, there are two side-bars, one with the objects in the 
+scene and below that the methods that you can call on such objects. On the 
+bottom, there is another block for the programming environment. This will hold 
+all conditional statements, animations, and methods in use. In the center of 
+the environment, it shows the world preview. This is what will show up 
+initially when you click the play button in the top left corner.
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/
+annotated_world-1.png)
+> This figure shows an Alice environment for Horses, indicating all important 
+> locations.
 
 ### Discussion I
 
@@ -33,23 +34,28 @@ detail.
 
 ---
 
-## Overview
+## Beaded Bag Lesson Plan
 
-1. Beaded bags of the Columbia Plateau.
-2. Computer Science - JIT
-3. EU 6: History from the American Indian Perspective
-4. Code in Alice!
-5. Sharing worlds
-6. Presentation of the two-day lesson
-7. Additional content standards
-8. Additional units & assessment
-9. Survey and conclusion
+In our Beaded Bag lesson plan, we introduce students to the idea of how natives 
+made beaded items, such as bags, jewelry, etc. In this lesson plan, we try to 
+introduce students to how a computer takes in commands and outputs items or 
+animations. By the end of this lesson, we intend 
+students to understand how a computer reads commands and how to 
+create commands of their own for a computer to understand.
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/beadbag.
+png)
 
----
+## Horses Lesson Plan
 
-## Beaded Bag Objectives
-
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/venn-bb-1.png)
+In our horses lesson plan, we introduce students to the idea of how natives 
+caught wild horses, as well as an intellectual understanding of how conditional 
+statements are seen in computer science. By the end of this lesson, we intend 
+students to understand how a computer reads conditional statements and how to 
+create conditional statements of their own.
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/starter_world.png)
+> The figure above shows the Alice environment for the Horses Lesson Plan.
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/day1-statement1.png)
+> The figure above shows a conditional statement in our Horses Lesson Plan.
 
 ### Reading
 
@@ -58,30 +64,3 @@ detail.
 [Short Reading](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-short.png)
 
 ---
-
-## Discussion II
-
-1. Summary
-2. What did you learn?
-3. What was most interesting?
-4. What was most surprising?
-
-19th Century | 20th Century
-:-------------------------:|:-------------------------:
- |
- |
- |
- |
- |
- |
- |
- |
-
----
-
-## Beaded Bag
-
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/beadbag.png)
-
-## Idea Discussion
-
