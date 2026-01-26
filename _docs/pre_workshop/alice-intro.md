@@ -8,10 +8,9 @@ tags:
 ## Alice 2.0
 
 Alice is a 3d animating environment in which we intend to learn about various 
-applications of comuter science. Through 2 lesson plans, we intend to teach 
+applications of comuter science. Through two lesson plans, we intend to teach 
 students about computer science, visual arts, and history from a Native 
-American perspective. Below, we have descriptions of the 2 lesson plans in 
-detail.
+American perspective.
 ### Explore Alice
 Alice has an interactive environment that is easy to use and understand for any 
 student k-12. On the left, there are two side-bars, one with the objects in the 
