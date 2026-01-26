@@ -34,33 +34,6 @@ annotated_world-1.png)
 
 ---
 
-## Beaded Bag Lesson Plan
-
-In our Beaded Bag lesson plan, we introduce students to the idea of how natives 
-made beaded items, such as bags, jewelry, etc. In this lesson plan, we try to 
-introduce students to how a computer takes in commands and outputs items or 
-animations. By the end of this lesson, we intend 
-students to understand how a computer reads commands and how to 
-create commands of their own for a computer to understand.
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/beaded-bag.
-png)
-> The figure above shows the Alice environment for the Beaded Bag Lesson Plan.
-
-## Horses Lesson Plan
-
-In our horses lesson plan, we introduce students to the idea of how natives 
-caught wild horses, as well as an intellectual understanding of how conditional 
-statements are seen in computer science. By the end of this lesson, we intend 
-students to understand how a computer reads conditional statements and how to 
-create conditional statements of their own.
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/starter_world.png)
-> The figure above shows the Alice environment for the Horses Lesson Plan.
-
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/day1-
-statement1.png)
-
-> The figure above shows a conditional statement in our Horses Lesson Plan.
-
 ### Reading
 
 [Full Brochure](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-full-brochure-01.png)
