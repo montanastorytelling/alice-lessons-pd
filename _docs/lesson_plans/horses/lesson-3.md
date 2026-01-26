@@ -16,9 +16,6 @@ webpage](https://montanastorytelling.github.io/alice-lessons/horses/wild-horses-
 and-burro-program) to answer the questions in [Worksheet 
 3](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_3).
 
-After this, if you are in a group, take some time to discuss your answers to 
-the worksheet.
-
 ## Fixing Alice Code
 
 As we go through the following steps, take out [Worksheet 

@@ -10,7 +10,7 @@ tags:
 
 ## Summarize Reading
 
-First, summarize the reading. Then answer the following questions:
+First, summarize the reading from "Reading/Worksheet". Then answer the following questions:
 
 - How long do you think it takes to make a piece of beadwork? How long do you think it took someone to make a beaded bag?
 - What tribes are known for their beadwork in Montana
@@ -38,8 +38,6 @@ Why is the man on a horse? Is he leaving or arriving?
 - What is the woman holding?
 - Did she give or recieve the gift?
 
-> If in a group, you can take time to share your ideas with others and discuss.
-
 ## Work in Alice
 
 Open the starter world up in Alice and do the following:
@@ -56,7 +54,6 @@ Ask yourself the following questions:
  
 Next, use your mouse to select the man in the alice world. On the left hand side of the screen, some options should appear. 
 One of these options is named man.say. You may add this method to your world.my_first_method in order to give the man some dialouge.
-Push play to see your changes in real time. Take 5-10 minutes to animate a story of your choosing. If you are working on this with a group, it may
-be acceptable to pair up in order to create a story together.
+Push play to see your changes in real time. Take 5-10 minutes to animate a story of your choosing.
 
 Work on [Worksheet 2](https://montanastorytelling.github.io/alice-lessons/f/beaded-bags/worksheet_2.pdf) individually.
