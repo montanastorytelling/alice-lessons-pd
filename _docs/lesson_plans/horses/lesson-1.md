@@ -18,10 +18,7 @@ indians-got-the-horse) or
 [American Indian Horse 
 History](https://montanastorytelling.github.io/alice-lessons/horses/american-
 indian-horse-history), and work through [Worksheet 
-2](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_2). If 
-you are in a group of some kind, this would 
-be an appropriate time to share your responses on Worksheet 2 
-with others and discuss.
+2](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_2). 
 
 ## Conditional Statements
 
