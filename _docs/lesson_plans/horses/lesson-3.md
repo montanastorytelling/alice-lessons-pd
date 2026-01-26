@@ -38,9 +38,9 @@ code again. Note what happens.
 to close the gate only if the horses are in the corral.
 4. Currently, the horses run through the gate even if it closes. Add a 
 condiional statement so that the horses stay behind the gate.
-    - If at any point, you are confused there should be answer guidance on the 
+**If at any point, you are confused there should be answer guidance on the 
 [Lesson 
-Plan](https://montanastorytelling.github.io/alice-lessons/horses/lesson_plan).
+Plan](https://montanastorytelling.github.io/alice-lessons/horses/lesson_plan).**
 
 ## Celebratory Animation!!
 

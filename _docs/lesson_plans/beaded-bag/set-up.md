@@ -24,6 +24,6 @@ For Set up before starting our take-home professional development course, the fo
 3. Download the starter world Beaded-Bag-Starter.a2w available from the Storytelling lessons webpage and
 pre-load it onto each computer. After opening Alice, select the tab "Open a World" from the welcome screen and 
 navigate to where you saved the starter world. 
-	1. For assistance, a worksheet describing the process of opening a 
-saved Alice world is available on the Storytelling lessons webpage[ Storytelling lessons webpage](https://montanastorytelling.github.io/alice-lessons/f/open-saved-world.pdf).
+**For assistance, a worksheet describing the process of opening a 
+saved Alice world is available on the Storytelling lessons webpage[ Storytelling lessons webpage](https://montanastorytelling.github.io/alice-lessons/f/open-saved-world.pdf).**
 4. Review technical ideas and terms used in the lesson, and defined in Appendix C of the [Beaded-Bag Lesson Plan](https://montanastorytelling.github.io/alice-lessons/f/beaded-bags/lesson-plan.pdf)

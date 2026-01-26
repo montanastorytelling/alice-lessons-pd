@@ -52,7 +52,7 @@ Ask yourself the following questions:
 - What is happening in the scene?
 - Did this change your perspective on the characters?
 - Are there any hidden details in the scene that you may not initially pick up on?
-	- For this question, it may be healpful to replay the animation.
+**For this question, it may be healpful to replay the animation.**
  
 Next, use your mouse to select the man in the alice world. On the left hand side of the screen, some options should appear. 
 One of these options is named man.say. You may add this method to your world.my_first_method in order to give the man some dialouge.
