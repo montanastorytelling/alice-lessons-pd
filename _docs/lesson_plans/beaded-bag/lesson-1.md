@@ -42,7 +42,7 @@ Why is the man on a horse? Is he leaving or arriving?
 
 Open the starter world up in Alice and do the following:
 
-- Go over the different parts of the Alice environment that are labeled in Figure 3; in particular,
+- Go over the different parts of the Alice environment; in particular,
 Objects, Object Methods, and World Preview.
 - Push play and watch the short animation.
 
