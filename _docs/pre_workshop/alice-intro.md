@@ -5,6 +5,11 @@ description: A light and fast introduction to Alice
 tags:
 - alice
 ---
+
+Welcome to our self-paced proffesional development on the Alice Lessons developed
+ by the storytelling team. Throughout the following modules, we'd like teachers to gain an 
+understanding of how to effectively teach our Alice lesson plans to their students. 
+
 ## Alice 2.0
 
 Alice is a 3d animating environment in which we intend to learn about various 
@@ -21,8 +26,18 @@ the environment, it shows the world preview. This is what will show up
 initially when you click the play button in the top left corner.
 ![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/
 annotated_world-1.png)
-> This figure shows an Alice environment for Horses, indicating all important 
+> This figure shows an Alice environment for the Horses lesson plan, indicating all important 
 > locations.
+
+In order to get an understanding of how Alice works as a program, we'll go through a small tutorial on how Alice works.
+1. Download Alice 2 onto your computer and open the program.
+2. Download the starter world Beaded-Bag-Starter.a2w available from the Storytelling lessons webpage and
+pre-load it onto each computer. After opening Alice, select the tab "Open a World" from the welcome screen and 
+navigate to where you saved the starter world. 
+**For assistance, a worksheet describing the process of opening a 
+saved Alice world is available on the Storytelling lessons webpage[ Storytelling lessons webpage](https://montanastorytelling.github.io/alice-lessons/f/open-saved-world.pdf).**
+3. Review technical ideas and terms used in the lesson, and defined in Appendix C of the [Beaded-Bag Lesson Plan](https://montanastorytelling.github.io/alice-lessons/f/beaded-bags/lesson-plan.pdf).
+
 
 ### Discussion I
 
@@ -35,7 +50,8 @@ annotated_world-1.png)
 
 ### Reading
 
-[Full Brochure](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-full-brochure-01.png)
+[Full Brochure]
+(https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-full-brochure-01.png)
 
 [Short Reading](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-short.png)
 
