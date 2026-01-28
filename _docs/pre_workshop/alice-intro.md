@@ -16,7 +16,7 @@ Alice is a 3d animating environment in which we intend to learn about various
 applications of comuter science. Through two lesson plans, we intend to teach 
 students about computer science, visual arts, and history from a Native 
 American perspective.
-### Explore Alice
+## Explore Alice
 Alice has an interactive environment that is easy to use and understand for any 
 student k-12. On the left, there are two side-bars, one with the objects in the 
 scene and below that the methods that you can call on such objects. On the 
@@ -28,6 +28,7 @@ initially when you click the play button in the top left corner.
 > This figure shows an Alice environment for the Horses lesson plan, indicating all important 
 > locations.
 
+## Alice Intro Course
 In order to get an understanding of how Alice works as a program, we'll go through a small 
 tutorial on how Alice works.
 1. Download Alice 2 onto your computer and open the program.
@@ -43,6 +44,21 @@ simpler starter world than any of the lesson plans. This should make it easy to 
 regardless of your previous experience. Currently, after opening the world, you should see an 
 Alice workspace similar to this image. 
 ![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/alice_intro_world1.png)
+
+What you've just opened is called a starter world. We have multiple starter worlds for the 
+lesson plans showing what the conditions should look like at given stages. We give starter 
+worlds to students so that they don't need to create an envorinment and understand the inner 
+workings of Alice to get an understanding of coding in general. We also do this to prevent 
+students from going completely off the lesson plan on their own. First we'd like to explore the 
+objects panel on the left, this panel shows the World, as well as everything in it, including: 
+1. camera (This gives us something to see the animation from)
+2. light (This controls how the characters are seen)
+3. ground (This gives the objects something to stand on)
+4. the horse
+5. the athlete
+The objects such as world, light, camera, and ground are not imperative to understand for the modules that you 
+may be teaching, howeever it may be worth understanding in case students ask questions. If 
+you are interested, there are some videos that explain it well on [this playlist](https://www.youtube.com/playlist?list=PLV5C1mYweohO87pWjobov_yrhrjaPhl4f).
 ### Discussion I
 
 1. What are your first impressions of Alice?
