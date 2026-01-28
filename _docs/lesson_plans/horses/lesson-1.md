@@ -26,7 +26,7 @@ and read through Class Period one(3.2 on lesson plan). After this, consider the 
 Journal down answers to these questions, as they may help during a class session.
 
 ## Student's Experience
-To begin Lesson, please work through [Worksheet 1](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_1), and work through 
+To begin, please work through [Worksheet 1](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_1), and work through 
 [Worksheet 2](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_2). Your 
 students will be completing both of these worksheets before working in Alice and after the 
 reading. Consider the following questions:
