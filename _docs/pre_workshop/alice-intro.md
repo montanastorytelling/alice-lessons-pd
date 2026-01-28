@@ -29,16 +29,20 @@ annotated_world-1.png)
 > This figure shows an Alice environment for the Horses lesson plan, indicating all important 
 > locations.
 
-In order to get an understanding of how Alice works as a program, we'll go through a small tutorial on how Alice works.
+In order to get an understanding of how Alice works as a program, we'll go through a small 
+tutorial on how Alice works.
 1. Download Alice 2 onto your computer and open the program.
-2. Download the starter world [alice-intro-starter](https://montanastorytelling.github.io/alice-lessons/beaded-bags/alice_intro_starter) available from the Storytelling lessons webpage and
-pre-load it onto each computer. After opening Alice, select the tab "Open a World" from the welcome screen and 
+2. Download the starter world [intro-alice-starter]
+(https://montanastorytelling.github.io/alice-lessons/beaded-bags/alice_intro_starter). After 
+opening Alice, select the tab "Open a World" from the welcome screen and 
 navigate to where you saved the starter world. 
 **For assistance, a worksheet describing the process of opening a 
-saved Alice world is available on the Storytelling lessons webpage[ Storytelling lessons webpage](https://montanastorytelling.github.io/alice-lessons/f/open-saved-world.pdf).**
-3. Review technical ideas and terms used in the lesson, and defined in Appendix C of the [Beaded-Bag Lesson Plan](https://montanastorytelling.github.io/alice-lessons/f/beaded-bags/lesson-plan.pdf).
+saved Alice world is available on the Storytelling lessons webpage[ Storytelling lessons 
+webpage](https://montanastorytelling.github.io/alice-lessons/f/open-saved-world.pdf).**
 
-
+This is a starter world made to understand the inner workings of Alice. It is made to be a 
+simpler starter world than any of the lesson plans. This should make it easy to understand 
+regardless of your previous experience.
 ### Discussion I
 
 1. What are your first impressions of Alice?
@@ -51,8 +55,10 @@ saved Alice world is available on the Storytelling lessons webpage[ Storytelling
 ### Reading
 
 [Full Brochure]
-(https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-full-brochure-01.png)
+(https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-full-brochure-01.pn
+g)
 
-[Short Reading](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-short.png)
+[Short Reading]
+(https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-short.png)
 
 ---
