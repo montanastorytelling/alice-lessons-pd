@@ -18,7 +18,7 @@ through the proffesional development. In this professional development, we will 
 - What do you notice?
 - What do you wonder?
 
-##Guiding Framework
+## Guiding Framework
 
 - Open [Guiding Framework](https://montanastorytelling.github.io/ledger-art-pd/docs/lessons/resources/guiding-framework.pdf)
 - How do the four principles relate to each other?
