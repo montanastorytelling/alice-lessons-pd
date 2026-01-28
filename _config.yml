@@ -52,6 +52,21 @@ defaults:
     sectionid: docs
     seo:
       type: "WebPage"
+- scope:
+    path: _permalinks
+    type: permalinks
+  values:
+    layout: default
+    seo:
+      type: "WebPage"
+- scope:
+    path: _testing
+    type: testing
+  values:
+    # permalink: /:collection/:name/
+    layout: default
+    seo:
+      type: "WebPage"
 
 # Disqus
 disqus-shortname: thedevslot
