@@ -47,7 +47,7 @@ Alice workspace similar to this image.
 
 What you've just opened is called a starter world. We have multiple starter worlds for the 
 lesson plans showing what the conditions should look like at given stages. We give starter 
-worlds to students so that they don't need to create an envorinment and understand the inner 
+worlds to students so that they don't need to create an environment and understand the inner 
 workings of Alice to get an understanding of coding in general. We also do this to prevent 
 students from going completely off the lesson plan on their own. First we'd like to explore the 
 objects panel on the left, this panel shows the World, as well as everything in it, including: 
@@ -56,9 +56,24 @@ objects panel on the left, this panel shows the World, as well as everything in 
 3. ground (This gives the objects something to stand on)
 4. the horse
 5. the athlete
+
 The objects such as world, light, camera, and ground are not imperative to understand for the modules that you 
-may be teaching, howeever it may be worth understanding in case students ask questions. If 
+may be teaching, however it may be worth understanding in case students ask questions. If 
 you are interested, there are some videos that explain it well on [this playlist](https://www.youtube.com/playlist?list=PLV5C1mYweohO87pWjobov_yrhrjaPhl4f).
+For now, draw your focus towards the athlete. If you select the name athlete on the left panel, 
+you should see him highlighted on the World Preview. You can also move your mouse to the 
+character himself and move him around, however this will not be imperitive to teaching the 
+course. The main way we'll be moving characters around in Alice is by using the panel right 
+below the Object panel. This is where the methods, properties, and functions are stored for 
+each object. Notice how if you click on the horse, the Object methods change to be the 
+methods for the horse. Try grabbing one of the methods, and move it into your "world.my first
+ method" section. This is where all of our actionable commands will be stored! Once you've 
+decided what method to place, try playing your animation via the top left "Play" button. Spend
+ some time experimenting with different methods on each character. When you're satisfied, 
+right click on the methods you placed in "world.my first method" to delete them. Keep this 
+world ready for CS Fundamentals, where we go more in depth on the Alice environment with 
+conditionals.
+
 ### Discussion I
 
 1. What are your first impressions of Alice?
