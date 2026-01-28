@@ -7,7 +7,8 @@ tags:
 ---
 
 Welcome to our Beaded Bag proffesional development! For use in the professional 
-development either print out the lesson plan, or display it on a monitor in order to reference it. 
+development either print out the [lesson plan](https://montanastorytelling.github.io/alice-lessons/beaded-bags/lesson_plan), 
+or display it on a monitor in order to reference it. 
 In this professional development, we will address:
 - engaging CS pedagogical content through IEFA
 - how to introduce CS to your students
