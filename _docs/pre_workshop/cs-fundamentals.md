@@ -7,10 +7,14 @@ tags:
 ---
 There is quite a bit of Computer science terminology that needs to be understood in order to 
 effectively teach these courses. Below, we will have a definition of a term, and an example in 
-real time through our intro-alice-starter world in order to effectively grasp the meaning.
+real time through our intro-alice-starter world in order to effectively grasp the meaning. Each 
+section is broken up by the terminology that is neccessary for teaching the following lesson 
+plan. First we have Beaded Bag, then Horses, finishing with some general terms that may be 
+useful. It is organized this way because the Horses plan is more complex, and requires 
+tunderstanding of the terminology out of Beaded bag too.
 ## Beaded Bag Computer Science Content
-This section should provide some general computer science content that may help 
-with the Beaded Bag lesson plan.
+This section should provide computer science content neccessary to understand in order to 
+teach the Beaded bag lesson. 
 
 ### Algorithm
 
@@ -18,6 +22,21 @@ An algorithm is a sequence of steps to solve a problem or perform a task.
 Similar to changing a tire or following a recipe to bake a cake, these actions 
 take a specific step-by-step processes. In Alice, the algorithms we develop help 
 to animate the virtual world.
+
+### Algorithm example
+
+Pull up the intro-alice-starter world in Alice with an empty space in the world.my first method.
+ If you have leftover methods from the previous section, you can either delete them by right 
+clicking on each of them or you can open up a fresh started world be re-downloading the file. 
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/alice_intro_world1.png)
+Grab the "Do in order" block from below and place it into your world.my first method. This is 
+depicted in the image above and highlighted by the red box. Once you place this into your 
+world.my first method, we need to populate it with actions. You can decide to use any actions 
+from the two characters in order to craft your algorithm. My algorithm moves the athlete up, 
+spins the horse, and then turns the horse to face the athlete. You can also make the characters 
+say certain things, or move in other ways. Once you've made your algorithm, play it with the top left button named "Play".
+ Below is an image of my algorithm in the world.my first method. 
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/alice_intro_world1.png)
 
 ### Code
 
