@@ -123,6 +123,12 @@ A comment is a region of text in code that is not meant to be executed, but
 instead provides
 information about the executable code around it.
 
+### Comment example
+
+In the same spot where the If/Else block is, all the way to the right there is a block called "//". 
+If you select this and place it into your workspace, it will prompt you to add a comment. This 
+does not affect code at all and is meant to be used for readability. Try to add your own comment!
+
 ### Conditional Statement
 
 A conditional (if/then) statement controls whether or not certain lines of code
@@ -136,6 +142,13 @@ else block that follows. Code in the else block is executed if the input value
 is false. We see conditional
 statements in everyday language as well! For example: **if** the day is 
 Monday, **then** we go to school.
+
+### Conditional Statement example
+
+Go back to your If/Else statement and add some methods to either section. Now notice what 
+happens when you change the Boolean variable. If the boolean variable is "True" it plays the 
+first set of actions and if the boolean variable reads "False" it plays the methods listed 
+underneath the Else statement. Give this a try for yourself!
 
 ### Property
 
@@ -155,10 +168,14 @@ a number (e.g., height), a string (e.g., name), or even a color. In Alice, for
 example, a variable is used when
 the user wants to specify the number of jumps an object should take.
 
-## General Computer Science Content
+### Variable example
 
-This section should provide some general computer science content that may help 
-with any/all the lesson plans.
+If you click on the horse in our Alice environment and navigate to the properties for the horse, 
+you should see a property called opacity. This property is associated with a variable(currently 
+1). If you edit this variable, it affects the property of the horses opacity. Give it a try!
+
+## Other Information
+
 ### Event
 
 How does a computer know when to run an algorithm?
@@ -166,26 +183,12 @@ In Alice, we will use the command: "When the world starts..."
 (do the following stuff). Computers "listen" for events to occur,
 and when they "hear" an event, they run some code.
 
-#### Examples of Events
+### Event Example
 
 * When a key is pressed...
 * When a mouse is clicked...
 * When a screen is touched...
 
-### Sequencing
-
-In Alice, code runs sequentially one block after another. Sequencing refers to the order in which things happen in your code.
-
-#### Linear Sequencing
-
-Linear Sequencing is when two things happen in code one after another, for 
-example:
-"When world starts...  jump then spin." The object will jump up, come back down to its original position, and then spin. Spin does not run until after the jump sequence ends.
-
-#### Parallel Sequencing:
-
-Parallel Sequencing is when two things happen in code at the same time, for 
-example:
-"When world starts... do together{jump then spin}. The object will initiate the 
-jump and spin sequences at the same time. The object will jump up and spin and 
-then come back down.
+This is not very prevalent in our Alice lessons, however it may still be valuable to understand. 
+Try to add an event yourself! The Events tab has a button called "create new event" and using 
+the understanding we've gotten so far, it shouldn't be too hard to figure out.
