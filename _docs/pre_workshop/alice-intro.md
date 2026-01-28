@@ -60,7 +60,9 @@ you are interested, there are some videos that explain it well on [this playlist
 For now, draw your focus towards the athlete. If you select the name athlete on the left panel, 
 you should see him highlighted on the World Preview. You can also move your mouse to the 
 character himself and move him around, however this will not be imperitive to teaching the 
-course. The main way we'll be moving characters around in Alice is by using the panel right 
+course. 
+
+The main way we'll be moving characters around in Alice is by using the panel right 
 below the Object panel. This is where the methods, properties, and functions are stored for 
 each object. Notice how if you click on the horse, the Object methods change to be the 
 methods for the horse. Try grabbing one of the methods, and move it into your "world.my first
