@@ -32,10 +32,10 @@ clicking on each of them or you can open up a fresh started world be re-download
 Grab the "Do in order" block from below and place it into your world.my first method. This is 
 depicted in the image above and highlighted by the red box. Once you place this into your 
 world.my first method, we need to populate it with actions. You can decide to use any actions 
-from the two characters in order to craft your algorithm. My algorithm moves the athlete up, 
+from the two characters in order to craft your algorithm. Our algorithm moves the athlete up, 
 spins the horse, and then turns the horse to face the athlete. You can also make the characters 
 say certain things, or move in other ways. Once you've made your algorithm, play it with the top left button named "Play".
- Below is an image of my algorithm in the world.my first method. 
+ Below is an image of our algorithm in the world.my first method. 
 ![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/alice_intro_world3.png)
 
 ### Code
@@ -89,6 +89,7 @@ you take the block "Do together" from below and move it into your world.my first
 you can move all of your algorithm into the "Do together" block and see how things change. If
  you want to delete the "Do in order" block afterwards, right click on it and then select 
 "delete". Play your animation to see the difference!
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/alice_intro_world4.png)
 
 ## Horses Computer Science Content
 This section should provide computer science content neccessary to understand in order to 
@@ -105,6 +106,16 @@ variable. For example, the
 world has a function “both a and b” that takes as input two booleans, a and b, 
 and returns true if both are
 true, and false if otherwise.
+
+### Boolean Example
+
+Go ahead and clear anything that is currently in the "world.my first method" workspace, and 
+then move the If/Else block into the workspace.
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/alice_intro_world5.png)
+It should give you the option to select true or false. This is our boolean variable. For now, just 
+pick either and leave it for later. In the example, we picked true.
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/alice_intro_world6.png)
+
 
 ### Comment
 
