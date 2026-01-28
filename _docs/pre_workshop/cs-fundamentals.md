@@ -28,7 +28,7 @@ to animate the virtual world.
 Pull up the intro-alice-starter world in Alice with an empty space in the world.my first method.
  If you have leftover methods from the previous section, you can either delete them by right 
 clicking on each of them or you can open up a fresh started world be re-downloading the file. 
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/alice_intro_world1.png)
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/alice_intro_world2.png)
 Grab the "Do in order" block from below and place it into your world.my first method. This is 
 depicted in the image above and highlighted by the red box. Once you place this into your 
 world.my first method, we need to populate it with actions. You can decide to use any actions 
@@ -36,7 +36,7 @@ from the two characters in order to craft your algorithm. My algorithm moves the
 spins the horse, and then turns the horse to face the athlete. You can also make the characters 
 say certain things, or move in other ways. Once you've made your algorithm, play it with the top left button named "Play".
  Below is an image of my algorithm in the world.my first method. 
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/alice_intro_world1.png)
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/alice_intro_world3.png)
 
 ### Code
 
