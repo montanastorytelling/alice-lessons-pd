@@ -24,8 +24,7 @@ bottom, there is another block for the programming environment. This will hold
 all conditional statements, animations, and methods in use. In the center of 
 the environment, it shows the world preview. This is what will show up 
 initially when you click the play button in the top left corner.
-![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/
-annotated_world-1.png)
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/annotated_world-1.png)
 > This figure shows an Alice environment for the Horses lesson plan, indicating all important 
 > locations.
 
@@ -41,7 +40,9 @@ webpage](https://montanastorytelling.github.io/alice-lessons/f/open-saved-world.
 
 This is a starter world made to understand the inner workings of Alice. It is made to be a 
 simpler starter world than any of the lesson plans. This should make it easy to understand 
-regardless of your previous experience.
+regardless of your previous experience. Currently, after opening the world, you should see an 
+Alice workspace similar to this image. 
+![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/alice_intro_world1.png)
 ### Discussion I
 
 1. What are your first impressions of Alice?
