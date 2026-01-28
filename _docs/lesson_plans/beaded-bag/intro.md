@@ -11,12 +11,15 @@ through the proffesional development. In this professional development, we will 
 - engaging CS pedagogical content through IEFA
 - how to introduce CS to your students
 - alternative methods of assessing student learning
+
 ## CS in Montana
+
 - Open [CS in Montana](https://montanastorytelling.github.io/ledger-art-pd/docs/lessons/resources/cs-in-montana.pdf)
 - What do you notice?
 - What do you wonder?
 
 ##Guiding Framework
+
 - Open [Guiding Framework](https://montanastorytelling.github.io/ledger-art-pd/docs/lessons/resources/guiding-framework.pdf)
 - How do the four principles relate to each other?
 - How do the four principles impact student identity?
