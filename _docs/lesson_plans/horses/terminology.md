@@ -7,8 +7,10 @@ tags:
 ---
 
 ## Horses Computer Science Content
-This section should provide some general computer science content that may help 
-with the Horses lesson plan.
+This section is a quick overview of definitions we've already covered, but these are the 
+definitions you definitely want to get across to the students before starting the lesson. There 
+are multiple ways you could introduce these definitions to the students, but we encourage 
+using examples to drive the definitions in.
 
 ### Boolean 
 
