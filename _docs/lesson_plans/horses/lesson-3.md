@@ -5,42 +5,32 @@ description:
 tags:
 - bag
 ---
-**Time: 50 Min**
+**Time: 1 hour**
 
-## Internet Research
+## Teacher's Experience
 
+Read through Class Period Three(3.4 on lesson plan) and answer the following questions:
+- How will you implement this in your classroom?
+- What challenges might you face?
+- How will you ensure every student has a voice?
+
+Journal down answers to these questions, as they may help during a class session.
+
+## Student's Experience
 Take about 15 minutes to research the Wild Horse and Burro Program 
-using
-web-links on the [Bureau of Land Management’s 
-webpage](https://montanastorytelling.github.io/alice-lessons/horses/wild-horses-
-and-burro-program) to answer the questions in [Worksheet 
-3](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_3).
+using web-links on the [Bureau of Land Management’s webpage](https://montanastorytelling.github.io/alice-lessons/horses/wild-horses-
+and-burro-program) to answer the questions in [Worksheet 3](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_3). 
+While going through this, answer the following questions:
+- What might be confusing to students when researching?
+- How can you facilitate good research in the classroom?
+- What will you do if students finish their research early?
 
-## Fixing Alice Code
+Journal down answers to these questions, as they may help during a class session.
 
-As we go through the following steps, take out [Worksheet 
-4](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_4) and 
-answer the questions as they come up. We are going to address the following 
-steps and questions:
+After this, fix your animation in Alice according to the lesson plan, and add your own ending 
+animation. After this, answer these questions:
+- How difficult/easy was this task?
+- What questions might students have on fixing the animation?
+- What needs to be clarified in the code, for students to parse through it easily?
 
-1. Look at the compound conditional statement in the
-gatekeeper.close_gate method. With the hypothesis being 
-‘false’, the gatekeeper will not close the gate. Confirm 
-this by running the code.
-2. Change the hypothesis in gatekeeper.close gate to ‘true’ and to run the
-code again. Note what happens.
-    - When should the gtekeeper close the gate?
-    - How does the program know when the horses are in the corral?
-3. Modify the hypothesis of the conditional statement in gatekeeper.close_gate 
-to close the gate only if the horses are in the corral.
-4. Currently, the horses run through the gate even if it closes. Add a 
-condiional statement so that the horses stay behind the gate.
-**If at any point, you are confused there should be answer guidance on the 
-[Lesson 
-Plan](https://montanastorytelling.github.io/alice-lessons/horses/lesson_plan).**
-
-## Celebratory Animation!!
-
-Now that you've got your animation lined up with the story, add a bit of your 
-own flare to the end! You could make the characters do a little dance or 
-something after capturing the horses.
+Journal down answers to these questions, as they may help during a class session.

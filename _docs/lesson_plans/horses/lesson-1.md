@@ -5,36 +5,38 @@ description:
 tags:
 - bag
 ---
-**Time: 50 Min**
+**Time: 1 hour**
 
-## Reading and Worksheets
-To begin Lesson 1, please work through [Worksheet 
-1](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_1).
 
-After this, read one of the following two supplemental readings, [How the 
-Indians Got the 
-Horse](https://montanastorytelling.github.io/alice-lessons/horses/how-the-
-indians-got-the-horse) or 
-[American Indian Horse 
-History](https://montanastorytelling.github.io/alice-lessons/horses/american-
-indian-horse-history), and work through [Worksheet 
-2](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_2). 
+In the following proffesional development, there are various things we want you to experience 
+from a teachers perspective, such as understanding how to effectively teach and facilitate the 
+lesson plan. On the other hand, we also expect you to work through the lesson plan as if you 
+were a student, in order to understand what they'll be learning and how they may feel, going 
+through the lesson plan.
 
-## Conditional Statements
+## Teacher's Experience
+Read the [anchor text](https://montanastorytelling.github.io/alice-lessons/horses/how-wild-horses-were-captured), both of the following two supplemental readings, 
+[How the Indians Got the Horse](https://montanastorytelling.github.io/alice-lessons/horses/how-the-indians-got-the-horse) 
+or [American Indian Horse History](https://montanastorytelling.github.io/alice-lessons/horses/american-indian-horse-history) 
+and read through Class Period one(3.2 on lesson plan). After this, consider the following questions:
+- How will you implement this in your classroom?
+- What challenges might you face?
+- How will you ensure every student has a voice?
 
-A conditional statement allows a command to be executed if
-certain conditions are met. Conditional statements in English
-can take the form of “If hypothesis, then conclusion”. For
-example,
-“If it is raining outside, then I will bring an umbrella.”
+Journal down answers to these questions, as they may help during a class session.
 
-See if you can think of some conditional statements on your own.
+## Student's Experience
+To begin Lesson, please work through [Worksheet 1](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_1), and work through 
+[Worksheet 2](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_2). Your 
+students will be completing both of these worksheets before working in Alice and after the 
+reading. Consider the following questions:
+- What may students be confused about in Worksheet 1/ Worksheet 2?
+- Are there any parts in the supplemental readings or the anchor text that may be confusing to students?
+- How can you lead students in the direction of Alice and coding through these texts?
+- Where can you make connections to conditional statements or code?
 
-It is also possible to extend conditional statements with else to provide an alternate
-conclusion. For example, “If it is raining outside, then I will bring an umbrella, else I will wear
-my sun glasses.” 
+Journal down answers to these questions, as they may help during a class session.
 
-Try to come up with your own example of a conditional statement expanded. 
-
-Open up Alice to take a look at some of the conditional statements already in 
-place. Take a moment to understand how this will run in real time.
+Towards the end of the class period, the lesson plan advises you to show the students a 
+conditional statement in Alice. Open the starter world in Alice to practice how you would 
+portray this information to the students.

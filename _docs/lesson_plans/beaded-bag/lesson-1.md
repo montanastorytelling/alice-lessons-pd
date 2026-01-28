@@ -16,7 +16,7 @@ through the lesson plan.
 
 ## Teacher's Experience
 
-First, read the [anchor text](https://montanastorytelling.github.io/alice-lessons/f/beaded-bags/brochure-short.pdf), and 
+First, read the [anchor text](https://montanastorytelling.github.io/alice-lessons/horses/how-the-indians-got-the-horse), and 
 class period one (3.2 in the lesson plan). It also may be useful to look through [worksheet 1](https://montanastorytelling.github.io/alice-lessons/f/beaded-bags/worksheet_1.pdf) 
 as your students will be completing this while reading the anchor text. After this, consider the following questions:
 - How will you implement this in your classroom?
@@ -25,7 +25,7 @@ as your students will be completing this while reading the anchor text. After th
 
 Journal down answers to these questions, as they may help during a class session.
 
-## Students Experience
+## Student's Experience
 As you reach the bottom of the lesson plan, it may be useful to pull up the beaded bag starter 
 world for yourself. Go through some of the questions that you are meant to ask the students 
 and ask yourself the following:

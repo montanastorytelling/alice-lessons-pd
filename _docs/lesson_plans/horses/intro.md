@@ -1,11 +1,31 @@
 ---
-title: Intro
+title: Introduction
 post-image:
 description:
 tags:
 - bag
 ---
 
+Welcome to our Horses proffesional development! For use in the professional 
+development either print out the [lesson plan](https://montanastorytelling.github.io/alice-lessons/beaded-bags/lesson_plan), 
+or display it on a monitor in order to reference it. 
+In this professional development, we will address:
+- engaging CS pedagogical content through IEFA
+- how to introduce CS to your students
+- alternative methods of assessing student learning
+- understanding the in and outs of the Horses lesson plan
+
+## CS in Montana
+
+- Open [CS in Montana](https://montanastorytelling.github.io/ledger-art-pd/docs/lessons/resources/cs-in-montana.pdf)
+- What do you notice?
+- What do you wonder?
+
+## Guiding Framework
+
+- Open [Guiding Framework](https://montanastorytelling.github.io/ledger-art-pd/docs/lessons/resources/guiding-framework.pdf)
+- How do the four principles relate to each other?
+- How do the four principles impact student identity?
 ## Horses Lesson Plan
 
 In our horses lesson plan, we introduce students to the idea of how natives 
