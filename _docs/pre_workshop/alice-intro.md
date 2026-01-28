@@ -32,8 +32,7 @@ annotated_world-1.png)
 In order to get an understanding of how Alice works as a program, we'll go through a small 
 tutorial on how Alice works.
 1. Download Alice 2 onto your computer and open the program.
-2. Download the starter world [intro-alice-starter]
-(https://montanastorytelling.github.io/alice-lessons/beaded-bags/alice_intro_starter). After 
+2. Download the starter world [intro-alice-starter](https://montanastorytelling.github.io/alice-lessons/beaded-bags/alice_intro_starter). After 
 opening Alice, select the tab "Open a World" from the welcome screen and 
 navigate to where you saved the starter world. 
 **For assistance, a worksheet describing the process of opening a 
@@ -54,11 +53,8 @@ regardless of your previous experience.
 
 ### Reading
 
-[Full Brochure]
-(https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-full-brochure-01.pn
-g)
+[Full Brochure](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-full-brochure-01.png)
 
-[Short Reading]
-(https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-short.png)
+[Short Reading](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/reading-short.png)
 
 ---
