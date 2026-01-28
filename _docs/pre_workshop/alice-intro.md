@@ -8,11 +8,8 @@ tags:
 
 Welcome to our self-paced proffesional development on the Alice Lessons developed
  by the storytelling team. Throughout the following modules, we'd like teachers to gain an 
-understanding of how to effectively teach our Alice lesson plans to their students. 
-
-## Alice 2.0
-
-Alice is a 3d animating environment in which we intend to learn about various 
+understanding of how to effectively teach our Alice lesson plans to their students. Alice is a 3d
+ animating environment in which we intend to learn about various 
 applications of comuter science. Through two lesson plans, we intend to teach 
 students about computer science, visual arts, and history from a Native 
 American perspective.
