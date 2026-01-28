@@ -6,11 +6,13 @@ tags:
 - bag
 ---
 
-Either print out the lesson plan, or display it on a monitor in order to reference it as we go 
-through the proffesional development. In this professional development, we will address:
+Welcome to our Beaded Bag proffesional development! For use in the professional 
+development either print out the lesson plan, or display it on a monitor in order to reference it. 
+In this professional development, we will address:
 - engaging CS pedagogical content through IEFA
 - how to introduce CS to your students
 - alternative methods of assessing student learning
+- understanding the in and outs of the Beaded bag lesson plan
 
 ## CS in Montana
 
