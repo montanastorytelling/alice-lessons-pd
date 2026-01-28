@@ -46,36 +46,13 @@ language to write code. Java, Python, and
 C++ are all examples of programming languages. In Alice, this process is 
 resembled through drag and drop
 code blocks allowing users to create programs through visually organizing and 
-connecting these code blocks.
+connecting these code blocks. 
 
-### Method
+### Code example
 
-A method is a group of messages/instructions directed at an object to cause it 
-to perform a
-particular action. In Alice, a method is visually represented as a block that 
-contains these instructions. For
-example, when you want an object to walk, run, or jump, these actions require a 
-method that tells the object
-which action to take.
-
-### Object:
-
-An object refers to any entity or element that is represented and manipulated 
-within the virtual
-environment (a figure, a ball, a dog). This object is manipulated by the 
-computer via step-by-step instructions
-initiated by the computer user. Objects will behave or act with help from 
-methods. In Alice, objects also
-include non-visual items such as the camera and the light that the user can 
-apply to their scene.
-
-### Parallel
-
-A parallel event is when two actions happen at the same time. In Alice, this 
-parallel function is
-called a do-together block. For example, imagine two characters walking 
-side-by-side, the user would use a
-do-together block to make both characters start walking at the same time.
+In our Alice environment the code is represented in the world.my first method section. This 
+details all our code, and that code tells Alice how to properly represent our commands to the 
+final animation.
 
 ### Sequential 
 
@@ -90,9 +67,32 @@ example, in Alice, calling the
 jump command followed by the run command will make a character first jump up 
 and then, second, run.
 
+### Sequential example
+
+In your Alice world, you made an algorithm that is sequential. What happens if you switch 
+around the ordering to some of your actions? A different animation will play. This is important
+ to note when talking about animating a story. The sequence of events matter in order to 
+guarantee that you animate what you want.
+
+### Parallel
+
+A parallel event is when two actions happen at the same time. In Alice, this 
+parallel function is
+called a do-together block. For example, imagine two characters walking 
+side-by-side, the user would use a
+do-together block to make both characters start walking at the same time.
+
+### Parallel example
+
+Similarly to how we can sequentially play out events, we can also play out events together. If 
+you take the block "Do together" from below and move it into your world.my first method, 
+you can move all of your algorithm into the "Do together" block and see how things change. If
+ you want to delete the "Do in order" block afterwards, right click on it and then select 
+"delete". Play your animation to see the difference!
+
 ## Horses Computer Science Content
-This section should provide some general computer science content that may help 
-with the Horses lesson plan.
+This section should provide computer science content neccessary to understand in order to 
+teach the Horses lesson. 
 
 ### Boolean 
 
