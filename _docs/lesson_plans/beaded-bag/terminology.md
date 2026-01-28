@@ -37,7 +37,7 @@ example, when you want an object to walk, run, or jump, these actions require a
 method that tells the object
 which action to take.
 
-### Object:
+### Object
 
 An object refers to any entity or element that is represented and manipulated 
 within the virtual
