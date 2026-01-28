@@ -5,7 +5,6 @@ description:
 tags:
 - bag
 ---
-## Beaded Bag Computer Science Content
 This section is a quick overview of definitions we've already covered, but these are the 
 definitions you definitely want to get across to the students before starting the lesson. There 
 are multiple ways you could introduce these definitions to the students, but we encourage 
