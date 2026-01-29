@@ -31,4 +31,6 @@ Journal down answers to these questions, as they may help during a class session
 
 [Horses lesson plan](https://montanastorytelling.github.io/alice-lessons/beaded-bags/lesson_plan)
 
+[Horses Starter World](https://montanastorytelling.github.io/alice-lessons/horses/horses_starter_world)
+
 

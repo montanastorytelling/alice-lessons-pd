@@ -42,6 +42,8 @@ png)
 ## Resources
 
 [Beaded Bag lesson plan](https://montanastorytelling.github.io/alice-lessons/beaded-bags/lesson_plan)
+ 
+[Beaded Bag Starter World](https://montanastorytelling.github.io/alice-lessons/beaded-bags/beadbag_starter)
 
 [CS in Montana](https://montanastorytelling.github.io/ledger-art-pd/docs/lessons/resources/cs-in-montana.pdf)
 

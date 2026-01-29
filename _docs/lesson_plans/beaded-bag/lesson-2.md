@@ -32,4 +32,6 @@ Pull up the Alice starter world, and begin animating a story. As you go through 
  
  [Beaded Bag lesson plan](https://montanastorytelling.github.io/alice-lessons/beaded-bags/lesson_plan)
  
+ [Beaded Bag Starter World](https://montanastorytelling.github.io/alice-lessons/beaded-bags/beadbag_starter)
+
  [Worksheet 3](https://montanastorytelling.github.io/alice-lessons/beaded-bags/worksheet_3)

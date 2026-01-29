@@ -45,6 +45,8 @@ portray this information to the students.
 
 [Horses lesson plan](https://montanastorytelling.github.io/alice-lessons/beaded-bags/lesson_plan)
 
+[Horses Starter World](https://montanastorytelling.github.io/alice-lessons/horses/horses_starter_world)
+
 [Anchor text](https://montanastorytelling.github.io/alice-lessons/horses/how-wild-horses-were-captured)
 
 [How the Indians Got the Horse](https://montanastorytelling.github.io/alice-lessons/horses/how-the-indians-got-the-horse)
