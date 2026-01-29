@@ -18,7 +18,7 @@ through the lesson plan.
 Read the [anchor text](https://montanastorytelling.github.io/alice-lessons/horses/how-wild-horses-were-captured), both of the following two supplemental readings, 
 [How the Indians Got the Horse](https://montanastorytelling.github.io/alice-lessons/horses/how-the-indians-got-the-horse) 
 or [American Indian Horse History](https://montanastorytelling.github.io/alice-lessons/horses/american-indian-horse-history) 
-and read through Class Period one(3.2 on lesson plan). After this, consider the following questions:
+and read through Class Period one (3.2 on lesson plan). After this, consider the following questions:
 - How will you implement this in your classroom?
 - What challenges might you face?
 - How will you ensure every student has a voice?

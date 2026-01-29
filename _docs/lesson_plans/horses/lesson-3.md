@@ -9,7 +9,7 @@ tags:
 
 ## Teacher's Experience
 
-Read through Class Period Three(3.4 on lesson plan) and answer the following questions:
+Read through Class Period Three (3.4 on lesson plan) and answer the following questions:
 - How will you implement this in your classroom?
 - What challenges might you face?
 - How will you ensure every student has a voice?

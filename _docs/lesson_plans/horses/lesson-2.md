@@ -9,7 +9,7 @@ tags:
 
 ## Teacher's Experience
 
-Read through Class Period Two(3.3 in lesson plan) and consider the following questions:
+Read through Class Period Two (3.3 in lesson plan) and consider the following questions:
 - How will you implement this in your classroom?
 - What challenges might you face?
 - How will you ensure every student has a voice?
