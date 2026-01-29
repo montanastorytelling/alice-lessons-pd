@@ -20,7 +20,7 @@ to animate the virtual world.
 ### Code
 
 Computer code is how computer users enter instructions for the computer to 
-understand the stepby-step instructions. Computer scientists use a programming 
+understand the step-by-step instructions. Computer scientists use a programming 
 language to write code. Java, Python, and
 C++ are all examples of programming languages. In Alice, this process is 
 resembled through drag and drop
@@ -63,7 +63,7 @@ If you were
 to run straight for one mile, turn left, then run straight for two miles, you 
 will be in a different spot than
 if you run straight for two miles, turn left, then run straight for one mile. 
-Often, in a comptuer, code is
+Often, in a computer, code is
 executed sequentially, or, in the order in which it appears line-by-line. For 
 example, in Alice, calling the
 jump command followed by the run command will make a character first jump up 

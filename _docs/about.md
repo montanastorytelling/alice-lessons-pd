@@ -18,14 +18,14 @@ Improving the Pathway for Rural and American Indian Students Entering Computer S
 * Former co-PIs: Fisher, Wittie
 * [public abstract](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657553&HistoricalAwards=false)
 
-## Grant Acknowledgement:
+## Grant Acknowledgement
 
 ```
 This material is based upon work supported by the National Science Foundation under
 Grant No. NSF DRL 1657553.
 ```
 
-## Acknowledgement: 
+## Acknowledgement:
 
 We must include the following acknowledgement for any publication (including web pages) or of any material based on or developed under this project:
 ```
@@ -34,7 +34,7 @@ Grant No. NSF DRL 1657553.
 ```
 This should also be included in any presentation. For interviews (radio or other), please be sure to verbally acknowledge the funding support.
 
-## Disclaimer: 
+## Disclaimer
 
 ```
 Any opinions, findings, and conclusions or recommendations expressed in this material are

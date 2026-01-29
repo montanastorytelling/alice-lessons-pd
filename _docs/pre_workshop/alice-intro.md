@@ -6,16 +6,16 @@ tags:
 - alice
 ---
 
-Welcome to our self-paced proffesional development on the Alice Lessons developed
+Welcome to our self-paced professional development on the Alice Lessons developed
  by the storytelling team. Throughout the following modules, we'd like teachers to gain an 
-understanding of how to effectively teach our Alice lesson plans to their students. Alice is a 3d
+understanding of how to effectively teach our Alice lesson plans to their students. Alice is a 3D
  animating environment in which we intend to learn about various 
-applications of comuter science. Through two lesson plans, we intend to teach 
+applications of computer science. Through two lesson plans, we intend to teach 
 students about computer science, visual arts, and history from a Native 
 American perspective.
 ## Explore Alice
 Alice has an interactive environment that is easy to use and understand for any 
-student k-12. On the left, there are two side-bars, one with the objects in the 
+student K-12. On the left, there are two sidebars, one with the objects in the 
 scene and below that the methods that you can call on such objects. On the 
 bottom, there is another block for the programming environment. This will hold 
 all conditional statements, animations, and methods in use. In the center of 
@@ -59,7 +59,7 @@ may be teaching, however it may be worth understanding in case students ask ques
 you are interested, there are some videos that explain it well on [this playlist](https://www.youtube.com/playlist?list=PLV5C1mYweohO87pWjobov_yrhrjaPhl4f).
 For now, draw your focus towards the athlete. If you select the name athlete on the left panel, 
 you should see him highlighted on the World Preview. You can also move your mouse to the 
-character himself and move him around, however this will not be imperitive to teaching the 
+character himself and move him around, however this will not be imperative to teaching the 
 course. 
 
 The main way we'll be moving characters around in Alice is by using the panel right 

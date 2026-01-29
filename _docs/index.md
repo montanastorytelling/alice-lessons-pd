@@ -17,11 +17,11 @@ for learning how to implement these lessons into your classroom.
 
 ## Alice Lessons Overview
 This middle school curriculum introduces students to developing and animating stories in
-Alice, a freely available, user-friendy, drag-and-drop programming environment.
+Alice, a freely available, user-friendly, drag-and-drop programming environment.
 These lessons were developed to integrate Montana computer science (CS) content
 standards, Indian Education for All (IEFA) and other Montana content standards.
 
-This curriculum is designed for grades 4-6. Lessons are centered around students
+This curriculum is designed for grades K-12. Lessons are centered around students
 hearing and being inspired by tribal stories (many from 
 the [Indian Reading Series](https://educationnorthwest.org/resources/indian-reading-series)), 
 and then designing and animating related 

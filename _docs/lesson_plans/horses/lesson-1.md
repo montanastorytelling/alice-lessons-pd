@@ -8,7 +8,7 @@ tags:
 **Time: 1 hour**
 
 
-In the following proffesional development, there are various things we want you to experience 
+In the following professional development, there are various things we want you to experience 
 from a teachers perspective, such as understanding how to effectively teach and facilitate the 
 lesson plan. On the other hand, we also expect you to work through the lesson plan as if you 
 were a student, in order to understand what they'll be learning and how they may feel, going 

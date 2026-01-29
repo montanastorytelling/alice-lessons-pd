@@ -6,14 +6,14 @@ tags:
 - bag
 ---
 
-Welcome to our Horses proffesional development! For use in the professional 
+Welcome to our Horses professional development! For use in the professional 
 development either print out the [lesson plan](https://montanastorytelling.github.io/alice-lessons/beaded-bags/lesson_plan), 
 or display it on a monitor in order to reference it. 
 In this professional development, we will address:
 - engaging CS pedagogical content through IEFA
 - how to introduce CS to your students
 - alternative methods of assessing student learning
-- understanding the in and outs of the Horses lesson plan
+- understanding the ins and outs of the Horses lesson plan
 
 ## CS in Montana
 
