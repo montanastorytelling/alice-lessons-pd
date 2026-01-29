@@ -42,6 +42,8 @@ Journal down answers to these questions, as they may help during a class session
 
 ## Resources 
 
+[Beaded Bag lesson plan](https://montanastorytelling.github.io/alice-lessons/beaded-bags/lesson_plan)
+
 [Anchor text](https://montanastorytelling.github.io/alice-lessons/horses/how-the-indians-got-the-horse)
 
 [Worksheet 1](https://montanastorytelling.github.io/alice-lessons/f/beaded-bags/worksheet_1.pdf)

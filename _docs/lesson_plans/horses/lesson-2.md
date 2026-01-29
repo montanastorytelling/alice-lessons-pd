@@ -27,3 +27,8 @@ required. Follow along with the lesson and ask yourself these questions:
 
 Journal down answers to these questions, as they may help during a class session.
 
+## Resources
+
+[Horses lesson plan](https://montanastorytelling.github.io/alice-lessons/beaded-bags/lesson_plan)
+
+

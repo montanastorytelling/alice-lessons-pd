@@ -6,7 +6,7 @@ tags:
 - bag
 ---
 Find the space in which you are to teach the class and download Alice on all the computers, 
-make sure everything is set up the way you need to according to the Preparation(3.1 in lesson 
+make sure everything is set up the way you need to according to the Preparation (3.1 in lesson 
 plan) section. Walk quickly through the lesson plan, making sure to note where your journal 
 entries show up and imagine how to effectively work through the course. It is also 
 recommended that you test displaying anything the students need to see on the projector as 
@@ -17,3 +17,7 @@ you work through this. Think through the following questions:
 - Can everyone see the projector from their seats?
 
 Journal down the answers to these questions for your class preparation.
+
+## Resources
+ 
+ [Beaded Bag lesson plan](https://montanastorytelling.github.io/alice-lessons/beaded-bags/lesson_plan)

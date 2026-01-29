@@ -37,6 +37,8 @@ Journal down answers to these questions, as they may help during a class session
 
 ## Resources
 
+[Horses lesson plan](https://montanastorytelling.github.io/alice-lessons/beaded-bags/lesson_plan)
+
 [Bureau of Land Management’s webpage](https://montanastorytelling.github.io/alice-lessons/horses/wild-horses-
 and-burro-program)
 
