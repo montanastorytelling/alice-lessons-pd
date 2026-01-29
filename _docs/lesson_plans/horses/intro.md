@@ -40,3 +40,11 @@ create conditional statements of their own.
 statement1.png)
 
 > The figure above shows a conditional statement in our Horses Lesson Plan.
+
+## Resources 
+
+[Horses lesson plan](https://montanastorytelling.github.io/alice-lessons/beaded-bags/lesson_plan)
+
+[CS in Montana](https://montanastorytelling.github.io/ledger-art-pd/docs/lessons/resources/cs-in-montana.pdf)
+
+[Guiding Framework](https://montanastorytelling.github.io/ledger-art-pd/docs/lessons/resources/guiding-framework.pdf)

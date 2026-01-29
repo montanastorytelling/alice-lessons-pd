@@ -39,3 +39,11 @@ as your students will be working on this in between lessons. Consider the follow
 - Will students have time to complete this in class or will it be assigned as homework?
 
 Journal down answers to these questions, as they may help during a class session.
+
+## Resources 
+
+[Anchor text](https://montanastorytelling.github.io/alice-lessons/horses/how-the-indians-got-the-horse)
+
+[Worksheet 1](https://montanastorytelling.github.io/alice-lessons/f/beaded-bags/worksheet_1.pdf)
+
+[Worksheet two](https://montanastorytelling.github.io/alice-lessons/f/beaded-bags/worksheet_2.pdf)

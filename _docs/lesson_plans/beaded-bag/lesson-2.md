@@ -27,3 +27,7 @@ Pull up the Alice starter world, and begin animating a story. As you go through 
  - How do you deal with a student that doesn't want to pair up?
  
  Journal down your answers to these questions, as they may help during class time.
+ 
+ ## Resources
+ 
+ [Worksheet 3](https://montanastorytelling.github.io/alice-lessons/beaded-bags/worksheet_3)

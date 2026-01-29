@@ -40,3 +40,15 @@ Journal down answers to these questions, as they may help during a class session
 Towards the end of the class period, the lesson plan advises you to show the students a 
 conditional statement in Alice. Open the starter world in Alice to practice how you would 
 portray this information to the students.
+
+## Resources 
+
+[Anchor text](https://montanastorytelling.github.io/alice-lessons/horses/how-wild-horses-were-captured)
+
+[How the Indians Got the Horse](https://montanastorytelling.github.io/alice-lessons/horses/how-the-indians-got-the-horse)
+
+[American Indian Horse History](https://montanastorytelling.github.io/alice-lessons/horses/american-indian-horse-history)
+
+[Worksheet 1](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_1)
+
+[Worksheet 2](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_2)

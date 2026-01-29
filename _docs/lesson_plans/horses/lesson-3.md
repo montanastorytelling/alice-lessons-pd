@@ -18,8 +18,8 @@ Journal down answers to these questions, as they may help during a class session
 
 ## Student's Experience
 Take about 15 minutes to research the Wild Horse and Burro Program 
-using web-links on the [Bureau of Land Management’s webpage](https://montanastorytelling.github.io/alice-lessons/horses/wild-horses-
-and-burro-program) to answer the questions in [Worksheet 3](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_3). 
+using web-links on the [Bureau of Land Management’s webpage](https://montanastorytelling.github.io/alice-lessons/horses/wild-horses-and-burro-program) 
+to answer the questions in [Worksheet 3](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_3). 
 While going through this, answer the following questions:
 - What might be confusing to students when researching?
 - How can you facilitate good research in the classroom?
@@ -34,3 +34,10 @@ animation. After this, answer these questions:
 - What needs to be clarified in the code, for students to parse through it easily?
 
 Journal down answers to these questions, as they may help during a class session.
+
+## Resources
+
+[Bureau of Land Management’s webpage](https://montanastorytelling.github.io/alice-lessons/horses/wild-horses-
+and-burro-program)
+
+[Worksheet 3](https://montanastorytelling.github.io/alice-lessons/horses/worksheet_3)

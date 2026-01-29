@@ -38,3 +38,11 @@ create commands of their own for a computer to understand.
 ![](https://montanastorytelling.github.io/alice-lessons-pd/assets/img/beaded-bag.
 png)
 > The figure above shows the Alice environment for the Beaded Bag Lesson Plan.
+
+## Resources
+
+[Beaded Bag lesson plan](https://montanastorytelling.github.io/alice-lessons/beaded-bags/lesson_plan)
+
+[CS in Montana](https://montanastorytelling.github.io/ledger-art-pd/docs/lessons/resources/cs-in-montana.pdf)
+
+[Guiding Framework](https://montanastorytelling.github.io/ledger-art-pd/docs/lessons/resources/guiding-framework.pdf)

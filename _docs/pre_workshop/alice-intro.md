@@ -81,6 +81,14 @@ conditionals.
 4. Any initial questions?
 
 ---
+### Resources 
+
+ [Alice Tutorials](https://www.youtube.com/playlist?list=PLV5C1mYweohO87pWjobov_yrhrjaPhl4f)
+
+[Alice Intro Starter World](https://montanastorytelling.github.io/alice-lessons/beaded-bags/alice_intro_starter)
+
+[ Storytelling lessons webpage](https://montanastorytelling.github.io/alice-lessons/f/open-saved-world.pdf).
+
 
 ### Reading
 
