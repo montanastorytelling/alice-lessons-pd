@@ -25,7 +25,7 @@ This material is based upon work supported by the National Science Foundation un
 Grant No. NSF DRL 1657553.
 ```
 
-## Acknowledgement:
+## Acknowledgement
 
 We must include the following acknowledgement for any publication (including web pages) or of any material based on or developed under this project:
 ```

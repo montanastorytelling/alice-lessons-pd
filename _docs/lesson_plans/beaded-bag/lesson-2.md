@@ -6,7 +6,7 @@ tags:
 - bag
 ---
 
-**Time: 2 hours min**
+**Time: 2 hours**
 
 ## Teachers Experience
 

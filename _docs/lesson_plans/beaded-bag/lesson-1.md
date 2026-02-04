@@ -6,7 +6,7 @@ tags:
 - bag
 ---
 
-**Time: 2 Hours**
+**Time: 2 hours**
 
 In the following professional development, there are various things we want you to experience 
 from a teachers perspective, such as understanding how to effectively teach and facilitate the 
