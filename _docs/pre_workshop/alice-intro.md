@@ -73,6 +73,11 @@ right click on the methods you placed in "world.my first method" to delete them.
 world ready for CS Fundamentals, where we go more in depth on the Alice environment with 
 conditionals.
 
+### Journal
+
+Throughout these modules, you should have a journal to take notes as you go through all the 
+modules. We have supplied an online journal for those that prefer to take notes online. Begin 
+your journal with "Discussion 1" answers.
 ### Discussion I
 
 1. What are your first impressions of Alice?
