@@ -77,7 +77,9 @@ conditionals.
 
 Throughout these modules, you should have a journal to take notes as you go through all the 
 modules. We have supplied an online journal for those that prefer to take notes online. Begin 
-your journal with "Discussion 1" answers.
+your journal with "discussion 1" answers. you should also journal your hours as you go 
+through the modules, so that we can update our time estimates accordingly. Submit the journal 
+at the end of the proffesional development.
 ### Discussion I
 
 1. What are your first impressions of Alice?
